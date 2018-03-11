@@ -1,4 +1,8 @@
 Roshini Belavadi
+1. GitHub
+2. Maven
+3. Jenkins
+4. Artifactory
 
 This is a simple demonstration application used in the [Jenkins: The Definitive Guide](http://wakaleo.com/books/jenkins-the-definitive-guide) book.
 
